@@ -58,6 +58,7 @@ const Index = ({ classes, auth }) => (
           >
             My first SSR application
           </Typography>
+          <br />
           <Button
             className={classes.fabButton}
             variant="extendedFab"
