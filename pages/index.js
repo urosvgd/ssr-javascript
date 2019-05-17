@@ -56,7 +56,12 @@ const Index = ({ classes, auth }) => (
             align="center"
             color="textSecondary"
           >
-            My first SSR application
+            My first SSR application <br />
+            Dolor ullamco elit aliquip ut eu tempor laboris minim. Labore anim
+            cupidatat labore culpa ex irure magna. Qui tempor aute consequat
+            fugiat commodo eu est consectetur dolor adipisicing. Pariatur
+            consequat sunt laboris irure proident velit exercitation labore et
+            laboris.
           </Typography>
           <br />
           <Button

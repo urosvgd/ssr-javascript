@@ -425,7 +425,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "../../modules/es6.string.iterator": [
+  "../modules/es6.string.iterator": [
     {
       "id": 61,
       "name": "./node_modules/@babel/runtime-corejs2/node_modules/core-js/library/modules/es6.string.iterator.js",
@@ -551,6 +551,12 @@
       "name": "./node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js",
       "file": "static/chunks/commons.f518089fdb1e3942a2a3.js",
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
+    },
+    {
+      "id": 160,
+      "name": "./node_modules/next/node_modules/@babel/runtime/helpers/assertThisInitialized.js",
+      "file": "static/chunks/commons.f518089fdb1e3942a2a3.js",
+      "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
   "./get_iso_year/index.js": [
@@ -625,7 +631,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "../rules/StyleRule": [
+  "./rules/StyleRule": [
     {
       "id": 100,
       "name": "./node_modules/jss/lib/rules/StyleRule.js",
@@ -989,14 +995,6 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "@babel/runtime/helpers/assertThisInitialized": [
-    {
-      "id": 160,
-      "name": "./node_modules/next/node_modules/@babel/runtime/helpers/assertThisInitialized.js",
-      "file": "static/chunks/commons.f518089fdb1e3942a2a3.js",
-      "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
-    }
-  ],
   "deepmerge": [
     {
       "id": 161,
@@ -1237,7 +1235,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "../core-js/object/assign": [
+  "@babel/runtime-corejs2/core-js/object/assign": [
     {
       "id": 198,
       "name": "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js",
@@ -1933,7 +1931,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "./sub_iso_years/index.js": [
+  "../sub_iso_years/index.js": [
     {
       "id": 325,
       "name": "./node_modules/date-fns/sub_iso_years/index.js",
@@ -1973,7 +1971,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "./start_of_year/index.js": [
+  "../start_of_year/index.js": [
     {
       "id": 330,
       "name": "./node_modules/date-fns/start_of_year/index.js",
@@ -1989,7 +1987,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "../is_leap_year/index.js": [
+  "./is_leap_year/index.js": [
     {
       "id": 332,
       "name": "./node_modules/date-fns/is_leap_year/index.js",
@@ -2013,7 +2011,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "./start_of_hour/index.js": [
+  "../start_of_hour/index.js": [
     {
       "id": 335,
       "name": "./node_modules/date-fns/start_of_hour/index.js",
@@ -2045,7 +2043,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "./start_of_minute/index.js": [
+  "../start_of_minute/index.js": [
     {
       "id": 339,
       "name": "./node_modules/date-fns/start_of_minute/index.js",
@@ -2069,7 +2067,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "./start_of_quarter/index.js": [
+  "../start_of_quarter/index.js": [
     {
       "id": 342,
       "name": "./node_modules/date-fns/start_of_quarter/index.js",
@@ -2085,7 +2083,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "./start_of_second/index.js": [
+  "../start_of_second/index.js": [
     {
       "id": 344,
       "name": "./node_modules/date-fns/start_of_second/index.js",
@@ -4193,7 +4191,7 @@
       "publicPath": "static/chunks/commons.f518089fdb1e3942a2a3.js"
     }
   ],
-  "./getThemeProps": [
+  "../styles/getThemeProps": [
     {
       "id": 714,
       "name": "./node_modules/@material-ui/core/styles/getThemeProps.js",
