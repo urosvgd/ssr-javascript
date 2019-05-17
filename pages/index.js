@@ -56,10 +56,7 @@ const Index = ({ classes, auth }) => (
             align="center"
             color="textSecondary"
           >
-            Dolore qui reprehenderit nulla esse voluptate pariatur reprehenderit
-            do minim adipisicing voluptate. Commodo laboris sunt cupidatat eu
-            aliqua aute Lorem minim labore. Deserunt anim minim non et ex mollit
-            non est consectetur.
+            My first SSR application
           </Typography>
           <Button
             className={classes.fabButton}
